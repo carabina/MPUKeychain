@@ -1,0 +1,16 @@
+PODS:
+  - MPUKeychain (0.1.0)
+
+DEPENDENCIES:
+  - MPUKeychain (from `../`)
+
+EXTERNAL SOURCES:
+  MPUKeychain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MPUKeychain: 4478f5d01b0198c6e687f7831f2542b7752d1e67
+
+PODFILE CHECKSUM: c330b8fac62d361b1494c4211b45372018d01a7f
+
+COCOAPODS: 1.0.1

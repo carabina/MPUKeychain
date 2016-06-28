@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MPUKeychain_Example' do
+  pod 'MPUKeychain', :path => '../'
+
+  target 'MPUKeychain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

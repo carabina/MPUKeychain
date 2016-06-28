@@ -1,0 +1,6 @@
+framework module Pods_MPUKeychain_Tests {
+  umbrella header "Pods-MPUKeychain_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
